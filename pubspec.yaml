@@ -1,0 +1,55 @@
+name: prueba
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+flutter_svg: ^1.0.3
+
+
+ 
+cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  firebase_core: ^1.11.0
+  firebase_auth: ^3.3.5
+
+flutter:
+
+ 
+  uses-material-design: true
+
+ 
+  assets:
+  - assets/images/
+ 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+# - family: Amazing
+#    fonts:
+#      - asset: fonts/Amazing-Slab-Bold-trial
+ 
+ 
